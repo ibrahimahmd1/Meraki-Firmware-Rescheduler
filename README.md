@@ -29,8 +29,6 @@ MERAKI_API_KEY="your_api_key_here"
 MERAKI_ORG_ID="your_org_id_here"
 ```
 
-Or edit the `CONFIG` block at the top of the script directly.
-
 ## Usage
 
 ```bash
