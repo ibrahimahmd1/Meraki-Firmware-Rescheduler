@@ -34,7 +34,7 @@ Or edit the `CONFIG` block at the top of the script directly.
 ## Usage
 
 ```bash
-python meraki_firmware_rescheduler.py
+python3 meraki_firmware_rescheduler.py
 ```
 
 The tool will guide you through the following steps:
