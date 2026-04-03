@@ -25,8 +25,8 @@ pip install requests
 Set your Meraki API key and Org ID under the `CONFIG` block at the top of the script directly.
 
 ```bash
-MERAKI_API_KEY="your_api_key_here"
-MERAKI_ORG_ID="your_org_id_here"
+"YOUR_API_KEY_HERE"
+"YOUR_ORG_ID_HERE"
 ```
 
 ## Usage
